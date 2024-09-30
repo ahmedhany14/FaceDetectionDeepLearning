@@ -6,3 +6,4 @@ matplotlib
 pandas
 albumentations
 labelme
+ultralytics
